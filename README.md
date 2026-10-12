@@ -4,7 +4,7 @@ Generic agent skill templates: one folder per skill, each with a `SKILL.md` (plu
 
 Some skills are adapted from upstream open-source skill collections and keep their own `LICENSE` file; that license applies to that folder.
 
-## Skills (82)
+## Skills (83)
 
 | Skill | Description |
 |---|---|
@@ -66,6 +66,7 @@ Some skills are adapted from upstream open-source skill collections and keep the
 | [kmp-state-management](kmp-state-management/SKILL.md) | Use this when choosing, implementing, or reviewing state-holder patterns in a KMP project — ViewModel, shared presenter, MVI, or StateFlow-in-common — including effect handling, UiState modeling, and  |
 | [kmp-testing](kmp-testing/SKILL.md) | Use this when designing, implementing, or reviewing tests in KMP projects — unit tests, instrumented tests, Compose Multiplatform UI tests, test doubles, test strategy, stability, performance, and scr |
 | [kontraktregister](kontraktregister/SKILL.md) | Use this when adding, updating or reviewing a company's contract register (parties, dates, renewals, notice periods) or alerting about upcoming contract deadlines. |
+| [kosthold](kosthold/SKILL.md) | Bruk når brukeren sender et bilde av mat eller et måltid, eller spør om hva de spiser, kalorier, makroer eller kostholdsstatistikk. |
 | [launch-kit](launch-kit/SKILL.md) | Use this when a new page, demo, feature or release is ready to announce and needs a matching post, thread, slide line and community note drafted for review. |
 | [linkedin-technical](linkedin-technical/SKILL.md) | When the user wants to reach developers on LinkedIn, create technical content for B2B audiences, or understand when LinkedIn beats Twitter. |
 | [open-source-marketing](open-source-marketing/SKILL.md) | When the user wants to market an open source project authentically. |
